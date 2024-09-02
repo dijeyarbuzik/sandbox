@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+   
+}
+
+ul {
+    list-style: none;
+    
+}
+
+header h1 {
+    text-align: center;
+    background-color: lightgray
+}
+
+main p {
+    text-align: left
+}
+
+main h2 {
+    text-align: center;
+    background-color: lightgray
+}
+
+ul li {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAMAAAC8EZcfAAAAG1BMVEX///8OPzZJNhUoHgsnsppoTh4rx6yJZycz68tIKeYzAAAA7ElEQVR4nO3aywqDMBCGUXu17//E3WW6GEJktKT1fFuJHFc/AZdFkiRJkn60y+YAAQEBAQE/Wa/Ws3VPiqdx9tp6tAABAQEBzwHMqP0y9Nq6tQABAQEBzwYcLWYtm8T4EEBAQEBAwJwV16KYtQBmVypAQEBAwPMCg9W/FgXmy6MHCAgICDglsD9r2QlAQEBAQMDxWesDD7w0AQICAgJOCdw+a31g/KIGCAgICPjPwMqsjVIrbwEEBAQEnBO4z6wdGGA1wGqA1QCrTQo8btZ2CrAaYDXAaoDVpgdONWtZgNUAqwFWA6w2PVCSpOHeYjVT/SnbSFUAAAAASUVORK5CYII=);
+  background-size: 40px;
+  background-repeat: no-repeat;
+  padding-left: 50px;
+  padding: 30px
+}
+
+.net {
+    background-image: url("https://w7.pngwing.com/pngs/188/962/png-transparent-two-green-swords-illustration-lego-minecraft-diamond-sword-video-game-swords-symmetry-dantdm-weapons-thumbnail.png");
+  background-size: 40px;
+  background-repeat: no-repeat;
+  padding-left: 50px;
+  padding: 30px
+}
